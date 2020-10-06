@@ -23,6 +23,10 @@
   - [Absurd Design](#absurd-design)
   - [Blush](#blush)
   - [Mega Doodles Pack](#mega-doodles-pack)
+  - [Design Evo](#design-evo)
+  - [Free Logo Design](#free-logo-design)
+  - [Graphic Springs](#graphic-springs)
+  - [Logo Marker](#logo-marker)
 
 
 # Collection of design tools

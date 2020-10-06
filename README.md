@@ -24,7 +24,7 @@
 Figma is a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows. The Figma Mirror companion apps for Android and iOS allow viewing Figma prototypes on mobile devices. The feature set of Figma focuses on use in user interface and user experience design, with an emphasis on real-time collaboration
 
 
-# Undraw
+## Undraw
 [undraw.co](https://undraw.co/)
 
 The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites, products and applications with your color, for free.
@@ -76,3 +76,21 @@ SVG waves can be used to create visual breaks on a page, or as a background text
 [freepik.com/stories](https://www.freepik.com/stories)
 
 Open source projects for image illustrations can be used to create websites or mobile apps.
+
+
+## Heroicons
+[heroicons.com](https://heroicons.com/)
+
+Heroicons is a free SVG icon set created by [Steve Schoger](https://twitter.com/steveschoger). They're pre-optimized and easy to use directly in your HTML where you can customize them using Tailwind's color and sizing utilities
+
+
+## Gradient Magic
+[gradientmagic.com](https://www.gradientmagic.com/)
+
+A Free Gallery of Fantastic and Unique CSS Gradients
+
+
+## Color Hunt
+[colorhunt.co](https://colorhunt.co/)
+
+Color Hunt is an open collection of color palettes, created by Gal Shir. Color Hunt started as a personal small project built to share trendy color combinations between a group of designer friends. The collection scaled up and now being used daily as a handy resources by thousands of people all over the world. Color Hunt was created with the goal of celebrating the beauty of colors, and to serve as a go-to resource for color inspiration.

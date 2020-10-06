@@ -14,6 +14,15 @@
   - [Blob Maker](#blob-maker)
   - [Get waves](#get-waves)
   - [Stories Freepik](#stories-freepik)
+  - [Heroicons](#heroicons)
+  - [Gradient Magic](#gradient-magic)
+  - [Color Hunt](#color-hunt)
+  - [Chroma](#chroma)
+  - [Image Color Picker](#image-color-picker)
+  - [Paletton](#paletton)
+  - [Absurd Design](#absurd-design)
+  - [Blush](#blush)
+  - [Mega Doodles Pack](#mega-doodles-pack)
 
 
 # Collection of design tools
@@ -94,3 +103,61 @@ A Free Gallery of Fantastic and Unique CSS Gradients
 [colorhunt.co](https://colorhunt.co/)
 
 Color Hunt is an open collection of color palettes, created by Gal Shir. Color Hunt started as a personal small project built to share trendy color combinations between a group of designer friends. The collection scaled up and now being used daily as a handy resources by thousands of people all over the world. Color Hunt was created with the goal of celebrating the beauty of colors, and to serve as a go-to resource for color inspiration.
+
+
+## Chroma
+[chroma.spencerhamm.com](https://chroma.spencerhamm.com/)
+
+Free web app which allows you to identify the color.
+
+
+## Image Color Picker
+[image-color.com](https://image-color.com/)
+
+Image color picker and color scheme generator.
+
+
+## Paletton
+[paletton.com](https://paletton.com/)
+
+A designer tool for creating color combinations that work together well.
+
+
+## Absurd Design
+[absurd.design](https://absurd.design/)
+
+Free surrealist illustrations for your projects.
+
+
+## Blush
+[blush.design](https://blush.design/)
+
+Create, mix and customize illustrations made by artists around the world.
+
+
+## Mega Doodles Pack
+[github.com/MariaLetta/mega-doodles-pack](https://github.com/MariaLetta/mega-doodles-pack/)
+
+Big vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+
+## Design Evo
+[designevo.com](https://www.designevo.com/)
+
+Alarge collection of vector icons and shapes help you design custom logos easily.
+
+
+## Free Logo Design
+[freelogodesign.org](https://www.freelogodesign.org/) 
+
+Freate stunning professional logos in seconds.
+
+## Graphic Springs
+[graphicsprings.com](https://www.graphicsprings.com/)
+
+Choose from a gallery of vector format logo templates, categorized by industry. Edit the graphics and texts of your template, then download it.
+
+
+## Logo Marker
+[ucraft.com/free-logo-maker](https://www.ucraft.com/free-logo-maker/)
+
+Allows you to make a free logo within seconds. Start with a blank canvas, add text and an icon, and then customize.

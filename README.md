@@ -139,3 +139,25 @@ Create, mix and customize illustrations made by artists around the world.
 [github.com/MariaLetta/mega-doodles-pack](https://github.com/MariaLetta/mega-doodles-pack/)
 
 Big vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
+
+## Design Evo
+[designevo.com](https://www.designevo.com/)
+
+Alarge collection of vector icons and shapes help you design custom logos easily.
+
+
+## Free Logo Design
+[freelogodesign.org](https://www.freelogodesign.org/) 
+
+Freate stunning professional logos in seconds.
+
+## Graphic Springs
+[graphicsprings.com](https://www.graphicsprings.com/)
+
+Choose from a gallery of vector format logo templates, categorized by industry. Edit the graphics and texts of your template, then download it.
+
+
+## Logo Marker
+[ucraft.com/free-logo-maker](https://www.ucraft.com/free-logo-maker/)
+
+Allows you to make a free logo within seconds. Start with a blank canvas, add text and an icon, and then customize.

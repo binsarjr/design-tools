@@ -20,6 +20,9 @@
   - [Chroma](#chroma)
   - [Image Color Picker](#image-color-picker)
   - [Paletton](#paletton)
+  - [Absurd Design](#absurd-design)
+  - [Blush](#blush)
+  - [Mega Doodles Pack](#mega-doodles-pack)
 
 
 # Collection of design tools
@@ -118,3 +121,21 @@ Image color picker and color scheme generator.
 [paletton.com](https://paletton.com/)
 
 A designer tool for creating color combinations that work together well.
+
+
+## Absurd Design
+[absurd.design](https://absurd.design/)
+
+Free surrealist illustrations for your projects.
+
+
+## Blush
+[blush.design](https://blush.design/)
+
+Create, mix and customize illustrations made by artists around the world.
+
+
+## Mega Doodles Pack
+[github.com/MariaLetta/mega-doodles-pack](https://github.com/MariaLetta/mega-doodles-pack/)
+
+Big vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.

@@ -27,6 +27,10 @@
   - [Free Logo Design](#free-logo-design)
   - [Graphic Springs](#graphic-springs)
   - [Logo Marker](#logo-marker)
+  - [Artboard Studio](#artboard-studio)
+  - [Cleanmock](#cleanmock)
+  - [Craftwork Design](#craftwork-design)
+  - [Device Shots](#device-shots)
 
 
 # Collection of design tools
@@ -165,3 +169,27 @@ Choose from a gallery of vector format logo templates, categorized by industry. 
 [ucraft.com/free-logo-maker](https://www.ucraft.com/free-logo-maker/)
 
 Allows you to make a free logo within seconds. Start with a blank canvas, add text and an icon, and then customize.
+
+
+## Artboard Studio
+[artboard.studio](https://artboard.studio/)
+
+Online graphic design application mainly focused on product mockups.
+
+
+## Cleanmock
+[cleanmock.com](https://cleanmock.com/)
+
+Create stunning mockups using the latest device frames like iPhone & custom backgrounds.
+
+
+## Craftwork Design
+[craftwork.design](https://craftwork.design/)
+
+Free and premium high-quality digital products that make your work faster and easier.
+
+
+## Device Shots
+[deviceshots.com](https://deviceshots.com/)
+
+A tool that helps you create beautiful device mockups with the screenshot of your website or mobile application, for free.

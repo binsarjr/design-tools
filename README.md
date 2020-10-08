@@ -14,6 +14,8 @@
   - [Blob Maker](#blob-maker)
   - [Get waves](#get-waves)
   - [Stories Freepik](#stories-freepik)
+  - [Whimsical](https://whimsical.com)
+  - [Genial](https://www.genial.ly)
 
 
 # Collection of design tools
@@ -60,13 +62,13 @@ Humaaans is a free library to mix-&-match illustrations of people. You can custo
 Sapiens Character Builder by UI8.net
 
 
-##  Blob Maker
+## Blob Maker
 [www.blobmaker.app](https://www.blobmaker.app/)
 
 Blobmaker is a free generative design tool made with 💕 by [z creative labs](https://www.zcreativelabs.com), to help you quickly create random, unique, and organic-looking SVG shapes.
 
 
-##  Get waves
+## Get waves
 [getwaves.io](https://getwaves.io)
 
 SVG waves can be used to create visual breaks on a page, or as a background texture. Creating waves with smooth curves can be tricky. Get waves is a simple, web app that aims to solve this issue by making it simple and fun to generate smooth, unique SVG section breaks. The concept is simple: choose the type of break, set the complexity and generate a unique break every time.
@@ -76,3 +78,17 @@ SVG waves can be used to create visual breaks on a page, or as a background text
 [freepik.com/stories](https://www.freepik.com/stories)
 
 Open source projects for image illustrations can be used to create websites or mobile apps.
+
+
+## Whimsical
+[Whimsical](https://whimsical.com)
+
+Whimsical is a website design tool for making various flowcharts, wireframes, stickynotes, mind maps, and Docs. Not only that, whimsical has also been widely used by many people and has gotten pretty good feedback.
+
+
+## Genial
+[Genaial.ly](https://www.genial.ly)
+
+motto Genial.ly "In case we don't see you tomorrow: Good morning, good afternoon and good evening"
+Genial.ly is a website design tools for making Presentations, Dossier & Reports, Learning,
+Experiance, Interactive Image, Horizontal infographic, Vertical infographic, guide, video presentation, Personal branding, Social And blank creation I think this website is extraordinary and has many cool features

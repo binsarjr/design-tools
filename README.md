@@ -32,6 +32,7 @@
   - [Craftwork Design](#craftwork-design)
   - [Device Shots](#device-shots)
   - [Mockflow](#mockflow)
+  - [Adobe XD](#adobexd)
 
 
 # Collection of design tools
@@ -178,10 +179,6 @@ Allows you to make a free logo within seconds. Start with a blank canvas, add te
 Online graphic design application mainly focused on product mockups.
 
 
-## Cleanmock
-[cleanmock.com](https://cleanmock.com/)
-
-Create stunning mockups using the latest device frames like iPhone & custom backgrounds.
 
 
 ## Craftwork Design
@@ -200,3 +197,11 @@ A tool that helps you create beautiful device mockups with the screenshot of you
 [mockflow.com](https://mockflow.com/)
 
 Draw UI designs in a snap with its minimal interface, advanced component set and collaborative feature
+
+
+## AdobeXD
+[adobe.com](https://www.adobe.com/in/products/xd.html)
+
+Draw UI designs in a snap with its minimal interface, advanced component set and collaborative feature
+
+

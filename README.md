@@ -33,6 +33,12 @@
   - [Device Shots](#device-shots)
   - [Mockflow](#mockflow)
   - [Adobe XD](#adobexd)
+  - [WhimSical](#Whimsical)
+  - [Invision](#Invision)
+  - [Sketch](#Sketch)
+  - [Webflow](#webflow)
+  - [Framer](#framer)
+  - [Maze.design](#maze-design)
 
 
 # Collection of design tools
@@ -204,4 +210,32 @@ Draw UI designs in a snap with its minimal interface, advanced component set and
 
 Draw UI designs in a snap with its minimal interface, advanced component set and collaborative feature
 
+## Whimsical
+[whimsical.com](https://whimsical.com/)
 
+Whimsical is a tool for communicating visually at the speed of thinking.
+
+## Invision
+[invisionapp.com](https://www.invisionapp.com/)
+
+The digital product design platform powering the world’s best user experiences
+
+## Sketch
+[sketch.com](https://www.sketch.com/)
+
+Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world’s largest teams.
+
+## Webflow
+[webflow.com](https://webflow.com/)
+
+Build responsive websites in your browser, then launch with our world-class hosting or export your code. Discover the professional website platform built for your business.
+
+## Framer
+[framer.com](https://www.framer.com/)
+
+It’s prototyping made simple—no code required, browser-based, and free for everyone. High-fidelity in half the time
+
+## Maze Design
+[maze.design](https://maze.design/)
+
+Test your prototypes with real users in hours, not days and get quantifiable insights you can act on instantly.

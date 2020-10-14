@@ -33,6 +33,7 @@
   - [Device Shots](#device-shots)
   - [Mockflow](#mockflow)
   - [Adobe XD](#adobexd)
+  - [WhimSical](#Whimsical)
 
 
 # Collection of design tools
@@ -204,4 +205,7 @@ Draw UI designs in a snap with its minimal interface, advanced component set and
 
 Draw UI designs in a snap with its minimal interface, advanced component set and collaborative feature
 
+## Whimsical
+[whimsical.com](https://whimsical.com/)
 
+Whimsical is a tool for communicating visually at the speed of thinking.

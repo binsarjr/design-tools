@@ -38,6 +38,7 @@
   - [Sketch](#Sketch)
   - [Webflow](#webflow)
   - [Framer](#framer)
+  - [Maze.design](#maze-design)
 
 
 # Collection of design tools
@@ -233,3 +234,8 @@ Build responsive websites in your browser, then launch with our world-class host
 [framer.com](https://www.framer.com/)
 
 It’s prototyping made simple—no code required, browser-based, and free for everyone. High-fidelity in half the time
+
+## Maze Design
+[maze.design](https://maze.design/)
+
+Test your prototypes with real users in hours, not days and get quantifiable insights you can act on instantly.

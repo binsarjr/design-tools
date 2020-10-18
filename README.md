@@ -33,6 +33,8 @@
   - [Device Shots](#device-shots)
   - [Mockflow](#mockflow)
   - [Adobe XD](#adobexd)
+  - [Adobe Photo Shop](#adobe-photoshop)
+  - [Adobe Illustrator](#adobe-illustrator)
   - [WhimSical](#Whimsical)
   - [Invision](#Invision)
   - [Sketch](#Sketch)
@@ -209,6 +211,16 @@ Draw UI designs in a snap with its minimal interface, advanced component set and
 [adobe.com](https://www.adobe.com/in/products/xd.html)
 
 Draw UI designs in a snap with its minimal interface, advanced component set and collaborative feature
+
+## Adobe Photoshop
+[adobe.com](https://www.adobe.com/in/products/photoshop.html)
+
+Photoshop is an image editor software by Adobe Systems that is devoted to photo / image editing and effect creation. This software is widely used by digital photographers and advertising companies so that it is responsive as a market leader for image / photo processing software.
+
+## Adobe Illustrator
+[adobe.com](https://www.adobe.com/in/products/illustrator.html)
+
+Adobe Illustrator is a leading vector graphics editor program, developed and marketed by Adobe Systems. Illustrator CC is the latest version of this program, the twentieth generation of Illustrator products.
 
 ## Whimsical
 [whimsical.com](https://whimsical.com/)

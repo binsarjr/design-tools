@@ -41,6 +41,9 @@
   - [Webflow](#webflow)
   - [Framer](#framer)
   - [Maze.design](#maze-design)
+  - [Axure](#axure)
+  - [Proto.io](#proto.io)
+  - [Marvel](#marvel)
 
 
 # Collection of design tools
@@ -251,3 +254,19 @@ It’s prototyping made simple—no code required, browser-based, and free for e
 [maze.design](https://maze.design/)
 
 Test your prototypes with real users in hours, not days and get quantifiable insights you can act on instantly.
+
+## Axure
+[axure.com](https://www.axure.com/)
+
+Axure functions in prototyping and keeping track of the workflow. It features a smooth interface to document as you go. High fidelity drives this app, resulting in prototypes full of details.
+
+## Proto.io
+[proto.io](https://proto.io/)
+
+Proto.io is an application prototyping platform launched in 2011 and developed by PROTOIO Inc. Originally designed to prototype on mobile devices, Proto.io has expanded to allow users to prototype apps for anything with a screen interface, including Smart TV’s, digital camera interfaces, cars, airplanes, and gaming consoles. Proto.io utilizes a drag and drop user interface (UI) and does not require coding.
+
+## Marvel
+[marvelapp.com](https://marvelapp.com/)
+
+Marvel has everything you need to bring ideas to life and transform how you create digital products with your team. 
+Placing the power of design in everyone’s hands.

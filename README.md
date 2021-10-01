@@ -44,6 +44,9 @@
   - [Axure](#axure)
   - [Proto.io](#proto.io)
   - [Marvel](#marvel)
+  - [DesignBod](#designbold)
+  - [PixelMator](#pixelmator)
+  - [IconFinder](#iconfinder)
 
 
 # Collection of design tools
@@ -270,3 +273,18 @@ Proto.io is an application prototyping platform launched in 2011 and developed b
 
 Marvel has everything you need to bring ideas to life and transform how you create digital products with your team. 
 Placing the power of design in everyone’s hands.
+
+## DesignBold
+[designbold.com](https://www.designbold.com/)
+
+DesignBold is a user-friendly online design tool (basically a simplified version of Photoshop) which helps you create stunning designs within only several drags-and-drops. With a massive library of 12,080++ customizable layouts and myriad design resources, DesignBold is a great choice for you to build the website elements yourself. For instance, a logo, a header or any other types of visuals for your website content. It is quick, cost-effective and suitable for both amateur and professional designers.
+
+## PixelMator
+[pixelmator.com](https://www.pixelmator.com/pro/)
+
+Pixelmator Pro is a tool for designers packed with innovations. It features an elegant single window interface and simplified editing tools with intelligent image editing features. It is the perfect tool for building up multiple projects with intuitive tools for moving, resizing, and arranging layers. Pixelmator Pro is also crafted with a unique collection of handcrafted brushes to bring out the painter in you. The brushes have dual textures giving a unique dynamic blend to your art. So, make your design look as beautiful as you want with the image editor tool.
+
+## IconFinder
+[iconfinder.com](https://www.iconfinder.com/)
+
+The visual language is getting into a new trend and Iconfinder is the best place for designers to gain inspiration and brilliant icons. It hosts the world’s largest collection of premium icons. You can access all 2,171,326 icons in SVG, PNG and IconJar formats. This is probably the easiest way to get icons with a license that fits commercial purposes.

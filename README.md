@@ -49,6 +49,10 @@
   - [IconFinder](#iconfinder)
   - [FluidUI](#fluidui)
   - [Balsamiq](#balsamiq)
+  - [Haikei](#haikei)
+  - [Canva](#canva)
+  - [Stencil](#stencil)
+  - [Gliffy](#gliffy)
 
 
 # Collection of design tools
@@ -98,7 +102,7 @@ Sapiens Character Builder by UI8.net
 ##  Blob Maker
 [www.blobmaker.app](https://www.blobmaker.app/)
 
-Blobmaker is a free generative design tool made with 💕 by [z creative labs](https://www.zcreativelabs.com), to help you quickly create random, unique, and organic-looking SVG shapes.
+Blobmaker is a free generative design tool made with ðŸ’• by [z creative labs](https://www.zcreativelabs.com), to help you quickly create random, unique, and organic-looking SVG shapes.
 
 
 ##  Get waves
@@ -238,12 +242,12 @@ Whimsical is a tool for communicating visually at the speed of thinking.
 ## Invision
 [invisionapp.com](https://www.invisionapp.com/)
 
-The digital product design platform powering the world’s best user experiences
+The digital product design platform powering the worldâ€™s best user experiences
 
 ## Sketch
 [sketch.com](https://www.sketch.com/)
 
-Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world’s largest teams.
+Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people â€” from freelancers, to the worldâ€™s largest teams.
 
 ## Webflow
 [webflow.com](https://webflow.com/)
@@ -253,7 +257,7 @@ Build responsive websites in your browser, then launch with our world-class host
 ## Framer
 [framer.com](https://www.framer.com/)
 
-It’s prototyping made simple—no code required, browser-based, and free for everyone. High-fidelity in half the time
+Itâ€™s prototyping made simpleâ€”no code required, browser-based, and free for everyone. High-fidelity in half the time
 
 ## Maze Design
 [maze.design](https://maze.design/)
@@ -268,13 +272,13 @@ Axure functions in prototyping and keeping track of the workflow. It features a 
 ## Proto.io
 [proto.io](https://proto.io/)
 
-Proto.io is an application prototyping platform launched in 2011 and developed by PROTOIO Inc. Originally designed to prototype on mobile devices, Proto.io has expanded to allow users to prototype apps for anything with a screen interface, including Smart TV’s, digital camera interfaces, cars, airplanes, and gaming consoles. Proto.io utilizes a drag and drop user interface (UI) and does not require coding.
+Proto.io is an application prototyping platform launched in 2011 and developed by PROTOIO Inc. Originally designed to prototype on mobile devices, Proto.io has expanded to allow users to prototype apps for anything with a screen interface, including Smart TVâ€™s, digital camera interfaces, cars, airplanes, and gaming consoles. Proto.io utilizes a drag and drop user interface (UI) and does not require coding.
 
 ## Marvel
 [marvelapp.com](https://marvelapp.com/)
 
 Marvel has everything you need to bring ideas to life and transform how you create digital products with your team. 
-Placing the power of design in everyone’s hands.
+Placing the power of design in everyoneâ€™s hands.
 
 ## DesignBold
 [designbold.com](https://www.designbold.com/)
@@ -289,7 +293,7 @@ Pixelmator Pro is a tool for designers packed with innovations. It features an e
 ## IconFinder
 [iconfinder.com](https://www.iconfinder.com/)
 
-The visual language is getting into a new trend and Iconfinder is the best place for designers to gain inspiration and brilliant icons. It hosts the world’s largest collection of premium icons. You can access all 2,171,326 icons in SVG, PNG and IconJar formats. This is probably the easiest way to get icons with a license that fits commercial purposes.
+The visual language is getting into a new trend and Iconfinder is the best place for designers to gain inspiration and brilliant icons. It hosts the worldâ€™s largest collection of premium icons. You can access all 2,171,326 icons in SVG, PNG and IconJar formats. This is probably the easiest way to get icons with a license that fits commercial purposes.
 
 ## FLUIDUI
 [fluidui] (https://www.fluidui.com/)
@@ -300,3 +304,24 @@ Create Web and Mobile Prototypes in Minutes
 [balsamiq] (https://balsamiq.com/)
 
 Balsamiq is the company behind Balsamiq Wireframes, the industry standard low-fidelity wireframing tool.
+
+## Haikei
+[haikei.app](https://haikei.app/)
+
+Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – ready to use with your design tools and workflow.
+
+## Canva
+[canva.com](https://canva.com/)
+
+Canva is a graphic design platform used to create social media graphics, presentations, posters, documents and other visual content.
+
+## Stencil
+[getstencil.com](https://getstencil.com/)
+
+Stencil is the web's favorite online graphic design tool. The fastest, easiest and most efficient way to create visuals for social media, blog posts, emails, presentations or just about anything!
+
+## Gliffy
+[gliffy.com](https://gliffy.com/)
+
+Gliffy is software for diagramming via an HTML5 cloud-based app
+

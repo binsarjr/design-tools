@@ -47,6 +47,10 @@
   - [DesignBod](#designbold)
   - [PixelMator](#pixelmator)
   - [IconFinder](#iconfinder)
+  - [Haikei](#haikei)
+  - [Canva](#canva)
+  - [Stencil](#stencil)
+  - [Gliffy](#gliffy)
 
 
 # Collection of design tools
@@ -288,3 +292,23 @@ Pixelmator Pro is a tool for designers packed with innovations. It features an e
 [iconfinder.com](https://www.iconfinder.com/)
 
 The visual language is getting into a new trend and Iconfinder is the best place for designers to gain inspiration and brilliant icons. It hosts the worldâ€™s largest collection of premium icons. You can access all 2,171,326 icons in SVG, PNG and IconJar formats. This is probably the easiest way to get icons with a license that fits commercial purposes.
+
+## Haikei
+[haikei.app](https://haikei.app/)
+
+Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – ready to use with your design tools and workflow.
+
+## Canva
+[canva.com](https://canva.com/)
+
+Canva is a graphic design platform used to create social media graphics, presentations, posters, documents and other visual content.
+
+## Stencil
+[getstencil.com](https://getstencil.com/)
+
+Stencil is the web's favorite online graphic design tool. The fastest, easiest and most efficient way to create visuals for social media, blog posts, emails, presentations or just about anything!
+
+## Gliffy
+[gliffy.com](https://gliffy.com/)
+
+Gliffy is software for diagramming via an HTML5 cloud-based app

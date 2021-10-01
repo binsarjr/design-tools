@@ -49,6 +49,8 @@
   - [IconFinder](#iconfinder)
   - [Haikei](#haikei)
   - [Canva](#canva)
+  - [Stencil](#stencil)
+  - [Gliffy](#gliffy)
 
 
 # Collection of design tools
@@ -300,3 +302,13 @@ Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – r
 [canva.com](https://canva.com/)
 
 Canva is a graphic design platform used to create social media graphics, presentations, posters, documents and other visual content.
+
+## Stencil
+[getstencil.com](https://getstencil.com/)
+
+Stencil is the web's favorite online graphic design tool. The fastest, easiest and most efficient way to create visuals for social media, blog posts, emails, presentations or just about anything!
+
+## Gliffy
+[gliffy.com](https://gliffy.com/)
+
+Gliffy is software for diagramming via an HTML5 cloud-based app

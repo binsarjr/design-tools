@@ -55,8 +55,9 @@
   - [Gliffy](#gliffy)
   - [Venngage](#venngage)
   - [Visme](#visme)
-  - [Gliffy](#gliffy)
-
+  - [FreeLogoDesign](#freelogodesign)
+  - [Looka](#looka)
+  - [Logaster](#logaster)
 
 # Collection of design tools
 
@@ -337,3 +338,18 @@ Ever wonder how to package a complex idea into a simple, attractive infographic?
 [visme.co](https://www.visme.co/)
 
 Free online infographic maker to create beautiful infographics in minutes.
+
+## FreeLogoDesign
+[freelogodesign.org](https://www.freelogodesign.org/)
+
+FreeLogoDesign is a free logo maker for entrepreneurs, small businesses, freelancers and organizations to create professional looking logos in minutes. Get a free logo for your website, business cards or correspondence.
+
+## Looka
+[looka.com](https://looka.com/)
+
+Looka Logo Maker combines your logo design preferences with Artificial Intelligence to help you create a custom logo you'll love. All it takes is a few clicks and five minutes.
+
+## Logaster
+[logaster.com](https://www.logaster.com/)
+
+Logaster is an online brand identity builder that has helped 12 million of small businesses with a fast, simple and affordable branding solution!

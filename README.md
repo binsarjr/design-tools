@@ -53,6 +53,9 @@
   - [Canva](#canva)
   - [Stencil](#stencil)
   - [Gliffy](#gliffy)
+  - [Venngage](#venngage)
+  - [Visme](#visme)
+  - [Gliffy](#gliffy)
 
 
 # Collection of design tools
@@ -325,3 +328,12 @@ Stencil is the web's favorite online graphic design tool. The fastest, easiest a
 
 Gliffy is software for diagramming via an HTML5 cloud-based app
 
+## Venngage
+[venngage.com](https://venngage.com/)
+
+Ever wonder how to package a complex idea into a simple, attractive infographic? With Venngage, you can map, graph, and label anything from the most recent social media trends to elements of the ultimate growth hack.
+
+## Visme
+[visme.co](https://www.visme.co/)
+
+Free online infographic maker to create beautiful infographics in minutes.

@@ -47,6 +47,8 @@
   - [DesignBod](#designbold)
   - [PixelMator](#pixelmator)
   - [IconFinder](#iconfinder)
+  - [FluidUI](#fluidui)
+  - [Balsamiq](#balsamiq)
 
 
 # Collection of design tools
@@ -288,3 +290,13 @@ Pixelmator Pro is a tool for designers packed with innovations. It features an e
 [iconfinder.com](https://www.iconfinder.com/)
 
 The visual language is getting into a new trend and Iconfinder is the best place for designers to gain inspiration and brilliant icons. It hosts the world’s largest collection of premium icons. You can access all 2,171,326 icons in SVG, PNG and IconJar formats. This is probably the easiest way to get icons with a license that fits commercial purposes.
+
+## FLUIDUI
+[fluidui] (https://www.fluidui.com/)
+
+Create Web and Mobile Prototypes in Minutes
+
+## Balsamiq
+[balsamiq] (https://balsamiq.com/)
+
+Balsamiq is the company behind Balsamiq Wireframes, the industry standard low-fidelity wireframing tool.

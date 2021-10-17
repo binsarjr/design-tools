@@ -58,6 +58,10 @@
   - [FreeLogoDesign](#freelogodesign)
   - [Looka](#looka)
   - [Logaster](#logaster)
+  - [Mesh](#mesh)
+  - [Unsplash](#unsplash)
+  - [Pixabay](#pixabay)
+  - [Flaticon](#flaticon)
 
 # Collection of design tools
 
@@ -183,7 +187,7 @@ Alarge collection of vector icons and shapes help you design custom logos easily
 ## Free Logo Design
 [freelogodesign.org](https://www.freelogodesign.org/) 
 
-Freate stunning professional logos in seconds.
+Create stunning professional logos in seconds.
 
 ## Graphic Springs
 [graphicsprings.com](https://www.graphicsprings.com/)
@@ -300,12 +304,12 @@ Pixelmator Pro is a tool for designers packed with innovations. It features an e
 The visual language is getting into a new trend and Iconfinder is the best place for designers to gain inspiration and brilliant icons. It hosts the worldâ€™s largest collection of premium icons. You can access all 2,171,326 icons in SVG, PNG and IconJar formats. This is probably the easiest way to get icons with a license that fits commercial purposes.
 
 ## FLUIDUI
-[fluidui] (https://www.fluidui.com/)
+[fluidui](https://www.fluidui.com/)
 
 Create Web and Mobile Prototypes in Minutes
 
 ## Balsamiq
-[balsamiq] (https://balsamiq.com/)
+[balsamiq](https://balsamiq.com/)
 
 Balsamiq is the company behind Balsamiq Wireframes, the industry standard low-fidelity wireframing tool.
 
@@ -353,3 +357,23 @@ Looka Logo Maker combines your logo design preferences with Artificial Intellige
 [logaster.com](https://www.logaster.com/)
 
 Logaster is an online brand identity builder that has helped 12 million of small businesses with a fast, simple and affordable branding solution!
+
+## Mesh
+[meshgradient.com](https://meshgradient.com/)
+
+Mesh is a platform that provide several gradient colors. You can create your own gradient and download it from here
+
+## Unsplash
+[unsplash.com](unsplash.com)
+
+A platform that provide bunch of HD photograph pictures. You can download it for free
+
+## Pixabay
+[pixabay.com](pixabay.com)
+
+Pixabay is very similar to unsplash that provide several images, but it's also provide bunch of videos, illustrations, and vector graphics. You can access and download them for free
+
+## Flaticon
+[flaticon.com](flaticon.com)
+
+Flaticon is a platform that provide bunch of icons and stickers. You can customize icons or stickers as you like and download it, but unfortunately there are some stickers/icons that are paid

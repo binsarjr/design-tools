@@ -63,6 +63,7 @@
   - [Pixabay](#pixabay)
   - [Flaticon](#flaticon)
   - [EaglePCB](#eaglepcb)
+  - [ShapeDevider](#shapedevider)
 
 # Collection of design tools
 
@@ -389,3 +390,7 @@ Charts are a great tool for communicating information visually. On Onlinechartto
 
 EAGLE is electronic design automation (EDA) software that lets printed circuit board (PCB) designers seamlessly connect schematic diagrams, component placement, PCB routing, and comprehensive library content.
 
+## Shape Devider
+[shapedivider.app](https://www.shapedivider.app/)
+
+Free tool to make it easier for designers and developers to export a beautiful SVG shape divider

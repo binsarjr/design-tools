@@ -62,6 +62,7 @@
   - [Unsplash](#unsplash)
   - [Pixabay](#pixabay)
   - [Flaticon](#flaticon)
+  - [ShapeDevider](#shapedevider)
 
 # Collection of design tools
 
@@ -382,3 +383,8 @@ Flaticon is a platform that provide bunch of icons and stickers. You can customi
 [onlinecharttool.com](https://www.onlinecharttool.com/)
 
 Charts are a great tool for communicating information visually. On Onlinecharttool.com you can design and share your own charts online and for free. We support a number of different chart types like: bar charts, pie charts, line charts, bubble charts and radar plots.
+
+## Shape Devider
+[shapedivider.app](https://www.shapedivider.app/)
+
+Free tool to make it easier for designers and developers to export a beautiful SVG shape divider

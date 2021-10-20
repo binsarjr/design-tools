@@ -62,6 +62,7 @@
   - [Unsplash](#unsplash)
   - [Pixabay](#pixabay)
   - [Flaticon](#flaticon)
+  - [EaglePCB](#eaglepcb)
 
 # Collection of design tools
 
@@ -382,3 +383,9 @@ Flaticon is a platform that provide bunch of icons and stickers. You can customi
 [onlinecharttool.com](https://www.onlinecharttool.com/)
 
 Charts are a great tool for communicating information visually. On Onlinecharttool.com you can design and share your own charts online and for free. We support a number of different chart types like: bar charts, pie charts, line charts, bubble charts and radar plots.
+
+## Eagle PCB
+[eaglepcb](https://www.autodesk.com/products/eagle/overview)
+
+EAGLE is electronic design automation (EDA) software that lets printed circuit board (PCB) designers seamlessly connect schematic diagrams, component placement, PCB routing, and comprehensive library content.
+

@@ -394,3 +394,8 @@ EAGLE is electronic design automation (EDA) software that lets printed circuit b
 [shapedivider.app](https://www.shapedivider.app/)
 
 Free tool to make it easier for designers and developers to export a beautiful SVG shape divider
+
+## Flat Color UI
+[flatcolorsui.com](http://www.flatcolorsui.com/)
+
+Flat ui color picker with perfect color's and codes used for flat designs.

@@ -63,8 +63,8 @@
   - [Pixabay](#pixabay)
   - [Flaticon](#flaticon)
   - [EaglePCB](#eaglepcb)
-  - [ShapeDevider](#shapedevider)
-
+  - [ShapeDevider](#shape-devider)
+  - [FlatColorUI](#flat-color-ui)
 # Collection of design tools
 
 ## Figma

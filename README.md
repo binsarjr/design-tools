@@ -65,6 +65,7 @@
   - [EaglePCB](#eaglepcb)
   - [ShapeDevider](#shape-devider)
   - [FlatColorUI](#flat-color-ui)
+  - [Pexels](#pexels)
 # Collection of design tools
 
 ## Figma
@@ -399,3 +400,8 @@ Free tool to make it easier for designers and developers to export a beautiful S
 [flatcolorsui.com](http://www.flatcolorsui.com/)
 
 Flat ui color picker with perfect color's and codes used for flat designs.
+
+## Pexels
+[pexels.com](https://www.pexels.com/)
+
+The best free stock photos, royalty free images & videos shared by creators.

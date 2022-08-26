@@ -66,6 +66,7 @@
   - [ShapeDevider](#shape-devider)
   - [FlatColorUI](#flat-color-ui)
   - [Pexels](#pexels)
+  - [Atmos](#atmos)
 # Collection of design tools
 
 ## Figma
@@ -400,3 +401,8 @@ Flat ui color picker with perfect color's and codes used for flat designs.
 [pexels.com](https://www.pexels.com/)
 
 The best free stock photos, royalty free images & videos shared by creators.
+
+## Atmos
+[atmos.style](https://atmos.style/)
+
+Everything you need to create color palettes. Atmos provides you with all the tools you need to create palettes in one - color generator, shade generator, color wheel, LCH color tool
